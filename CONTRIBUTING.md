@@ -2,6 +2,8 @@
 <!-- omit in toc -->
 
 # Contributing to issue-metrics
+open tor browseer
+
 
 First off, thanks for taking the time to contribute! :heart:
 
